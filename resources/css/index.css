@@ -1,0 +1,134 @@
+*{
+    margin:0px;
+    padding: 0px;
+    text-align: center;    
+
+}
+body{
+    background-color: #fff;
+    max-width: fit-content;
+    border: solid;
+    border-width: thin;
+    box-sizing: border-box ;
+    margin: 50px;
+
+}
+header{
+    background-color:#cb0abb ;
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 2px 18px;
+    vertical-align: middle;
+    white-space: nowrap;
+
+}
+
+.para{
+    text-align: center;
+    margin-top: 10px;
+   
+}
+.team-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 20px;
+
+}
+.team-title h2{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    position: relative;
+    border-top: 3px dashed #cb0abb;
+    
+}
+.leader-title h3{
+    font-size: 20px;
+    background-color: #cb0abb;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+   border-radius: 5px;
+   display: inline-block;
+   padding: 2px 20px;
+
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    
+}
+.row{
+    display: flex;
+   flex-wrap: wrap;
+   margin: 0 -10px;
+   justify-content: center;
+   margin-bottom: 50px;
+   padding: 10px;
+    
+
+}
+.column{
+    padding: 0 10px;
+    padding-right: 70px;
+    padding-left: 20px;
+  
+}
+.team-image img{
+   border-radius: 50%;
+   width:80px;
+   margin: 0px auto;
+   min-height: 0;
+   min-width: 0;
+   object-fit: cover;
+   padding: 10px 20px;
+}
+.team-details h3{
+    margin: 1px auto;
+    font-size: medium;
+}
+.par{
+    color: #cb0abb;
+   
+}
+
+.dev-team h3{
+    font-size: 20px;
+    background-color: #cb0abb;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 2px 20px;
+    
+}
+.sales-team{
+    font-size: 15px;
+    background-color: #cb0abb;
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 2px 20px;
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
+
