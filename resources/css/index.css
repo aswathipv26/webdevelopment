@@ -6,7 +6,7 @@
 }
 body{
     background-color: #fff;
-    max-width: fit-content;
+    max-width: 1200px;
     border: solid;
     border-width: thin;
     box-sizing: border-box ;
